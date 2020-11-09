@@ -1,5 +1,7 @@
 # GlobalMapTiles
 
+[![Gem Version](https://badge.fury.io/rb/global_map_tiles.svg)](https://badge.fury.io/rb/global_map_tiles)
+
 ![CI](https://github.com/x4d3/global_map_tiles/workflows/CI/badge.svg)
 
 Ruby port of the script "Tiles à la Google Maps: Coordinates, Tile Bounds and Projection" from http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection/
