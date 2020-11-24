@@ -4,7 +4,7 @@
 
 ![CI](https://github.com/x4d3/global_map_tiles/workflows/CI/badge.svg)
 
-Ruby port of the script "Tiles à la Google Maps: Coordinates, Tile Bounds and Projection" from http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection/
+Ruby port of the script `globalmaptiles.py` from [Tiles à la Google Maps: Coordinates, Tile Bounds and Projection](http://www.maptiler.org/google-maps-coordinates-tile-bounds-projection)
 
 Lon/Lat convention was chosen over Lat/Lon as it's the convention of [GeoJSON](https://geojson.org/).
 
